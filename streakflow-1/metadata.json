@@ -1,0 +1,7 @@
+{
+  "name": "StreakFlow 1",
+  "description": "A high-performance habit tracker with Material You 3 design, featuring AI-powered motivation and seamless offline support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
