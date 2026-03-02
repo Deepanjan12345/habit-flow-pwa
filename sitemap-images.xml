@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Example Images (replace with dynamic content) -->
+  <url>
+    <loc>https://ais-pre-twocqm6z7rmkkll7v2mema-38241633905.asia-east1.run.app/gallery</loc>
+    <image:image>
+      <image:loc>https://ais-pre-twocqm6z7rmkkll7v2mema-38241633905.asia-east1.run.app/images/gallery/image1.jpg</image:loc>
+      <image:caption>AI-generated art piece 1</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-twocqm6z7rmkkll7v2mema-38241633905.asia-east1.run.app/gallery</loc>
+    <image:image>
+      <image:loc>https://ais-pre-twocqm6z7rmkkll7v2mema-38241633905.asia-east1.run.app/images/gallery/image2.jpg</image:loc>
+      <image:caption>AI-generated art piece 2</image:caption>
+    </image:image>
+  </url>
+</urlset>
